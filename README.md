@@ -1,6 +1,6 @@
-# Unity-Scripts
+# Unity Scripts
 
-Unity Scripts I've written for practice or fun. Feel free to use anything here however you'd like.
+Unity scripts I've written for practice or fun. Feel free to use anything here however you'd like.
 
 
 ### [TileMap3D](TileMap3D/)
